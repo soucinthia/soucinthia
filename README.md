@@ -14,7 +14,6 @@
  
 <div> 
 
- 
-  ![Snake animation](https://github.com/soucinthia/soucinthia/blob/output/github-contribution-grid-snake.svg)
+
  
 </div>
