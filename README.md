@@ -4,7 +4,7 @@
   <img align="column" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="column" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="column" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> <br>
-  <img align="left" height="180" style="border-radius:50px"; src="https://user-images.githubusercontent.com/73072383/143257296-11f9ac71-dd99-408d-bc63-21e127735f29.png" alt="cinthia-pic" >
+  
 </div>
 <div align="center">
   <a href="https://github.com/soucinthia">
