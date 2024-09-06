@@ -1,4 +1,4 @@
-  <div align="center"> <h1>Olá e Bem-vindo👋</h1> </div>
+  <div align="center"> <h1>Olá, bem-vindo👋</h1> </div>
   <br><br>
   <div align="center">
   <img align="column" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
